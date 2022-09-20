@@ -1,0 +1,2 @@
+mdutils==1.4.0
+pdf2image==1.16.0
